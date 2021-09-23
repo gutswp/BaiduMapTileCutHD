@@ -18,7 +18,7 @@ namespace LagLonCal
             string imgPath = @"D:\0 产品相关\天津石化高清---20级覆盖图.png";
             //SliceUp(@"D:\1 BI\TestWP.png", 256, 256);
 
-            //new edit 
+            //new edit by wp 
             new DivideImg().ShowImage(imgPath);
             //ChangeFileExtToNone(imgPath);
             Console.WriteLine("Done ! ! !");
